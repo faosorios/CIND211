@@ -1,4 +1,5 @@
 # Curso de Redes y Sistemas Estocásticos en Ingeniería
+![GitHub last commit](https://img.shields.io/github/last-commit/faosorios/CIND211)
 
 Este repositorio contiene el material del curso **CIND-211: Redes y Sistemas Estocásticos en Ingeniería** (Universidad Andrés Bello).
 
