@@ -1,0 +1,4 @@
+model panaderia.mod; # define modelo
+option solver cplex; # selecciona 'solver'
+solve;
+display x,y,z;

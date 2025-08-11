@@ -1,0 +1,7 @@
+reset;
+model rutas.mod;
+data rutas.dat;
+option solver cplex;
+solve;
+display Total_Time;
+display Use;

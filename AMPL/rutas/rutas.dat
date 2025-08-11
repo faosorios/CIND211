@@ -1,0 +1,16 @@
+set INTER := a b c d e f;
+
+param entr := a;
+param exit := f;
+
+param: ROADS:	time:=
+a b 20,
+a c 10,
+a d 16,
+b c 8,
+b e 14
+b f 25,
+c d 30,
+d f 15,
+e b 12,
+e f 8;

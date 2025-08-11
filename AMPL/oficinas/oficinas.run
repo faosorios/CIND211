@@ -1,0 +1,6 @@
+reset; # eliminar caché
+model oficinas.mod;
+data oficinas.dat;
+option solver cplex; # selecciona 'solver'
+solve;
+display X;
