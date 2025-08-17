@@ -1,0 +1,31 @@
+model floyd.mod;
+data network.dat;
+
+# Initialize d and pred
+for {i in NODES, j in NODES} {
+    if i = j then {
+        let d[i,j] := 0;
+        let pred[i,j] := 0; # Or a distinct value
+    } else if cost[i,j] < Infinity then {
+        let d[i,j] := cost[i,j];
+        let pred[i,j] := i;
+    } else {
+        let d[i,j] := Infinity;
+        let pred[i,j] := 0; # Or a distinct value
+    }
+}
+
+# Floyd-Warshall iterations
+for {k in NODES} {
+    for {i in NODES} {
+        for {j in NODES} {
+            if d[i,k] + d[k,j] < d[i,j] then {
+                let d[i,j] := d[i,k] + d[k,j];
+                let pred[i,j] := pred[k,j];
+            }
+        }
+    }
+}
+
+display d;
+display pred;
