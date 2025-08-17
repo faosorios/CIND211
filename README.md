@@ -17,3 +17,4 @@ Las **diapositivas** para el 2do semestre de 2025 se encuentran disponibles a co
 - Problema de Programación Lineal [[panaderia]](https://github.com/faosorios/CIND211/tree/main/AMPL/panaderia/)
 - Problema de Asignación [[oficinas]](https://github.com/faosorios/CIND211/tree/main/AMPL/oficinas)
 - Problema de Ruta más corta [[rutas]](https://github.com/faosorios/CIND211/tree/main/AMPL/rutas)
+- Algoritmo de Floyd-Warshall [[floyd]](https://github.com/faosorios/CIND211/tree/main/AMPL/floyd)
