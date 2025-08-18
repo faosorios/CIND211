@@ -1,0 +1,7 @@
+reset;
+model rutas.mod;
+data maquinas.dat;
+option solver cplex;
+solve;
+display total;
+display x;
