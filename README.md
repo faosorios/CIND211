@@ -13,7 +13,7 @@ Las **diapositivas** para el 2do semestre de 2025 se encuentran disponibles a co
 - Sesión 3: Taller 1, introducción a AMPL [[slides]](https://github.com/faosorios/CIND211/blob/main/diapositivas/slides-03.pdf)
 - Sesión 4: Algoritmo de Floyd-Warshall [[slides]](https://github.com/faosorios/CIND211/blob/main/diapositivas/slides-04.pdf)
 - Sesión 5: Taller 2, Algoritmo de Floyd-Warshall en AMPL [[slides]](https://github.com/faosorios/CIND211/blob/main/diapositivas/slides-05.pdf)
-- Sesión 6: Ejercicios [[slides]](https://github.com/faosorios/CIND211/blob/main/diapositivas/slides-06.pdf)
+- Sesión 6: Ejercicios de clase [[slides]](https://github.com/faosorios/CIND211/blob/main/diapositivas/slides-06.pdf)
 
 ## Ejemplos en AMPL
 
