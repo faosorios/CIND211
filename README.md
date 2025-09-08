@@ -15,6 +15,8 @@ Las **diapositivas** para el 2do semestre de 2025 se encuentran disponibles a co
 - Sesión 5: Taller 2, Algoritmo de Floyd-Warshall en AMPL [[slides]](https://github.com/faosorios/CIND211/blob/main/diapositivas/slides-05.pdf)
 - Sesión 6: Ejercicios de clase [[slides]](https://github.com/faosorios/CIND211/blob/main/diapositivas/slides-06.pdf)
 - Sesión 7: Árbol de expansión de costo mínimo [[slides]](https://github.com/faosorios/CIND211/blob/main/diapositivas/slides-07.pdf)
+- Sesión 8: Problema de flujo máximo [[slides]](https://github.com/faosorios/CIND211/blob/main/diapositivas/slides-08.pdf)
+- Sesión 9: Taller 3, árbol de expansión y flujo máximo [[slides]](https://github.com/faosorios/CIND211/blob/main/diapositivas/slides-09.pdf)
 
 ## Ejemplos en AMPL
 
@@ -23,3 +25,5 @@ Las **diapositivas** para el 2do semestre de 2025 se encuentran disponibles a co
 - Problema de Ruta más corta [[rutas]](https://github.com/faosorios/CIND211/tree/main/AMPL/rutas)
 - Ejemplo de Ruta más corta [[maquinas]](https://github.com/faosorios/CIND211/tree/main/AMPL/maquinas)
 - Algoritmo de Floyd-Warshall [[floyd]](https://github.com/faosorios/CIND211/tree/main/AMPL/floyd)
+- Arbol de expansión [[arbol]](https://github.com/faosorios/CIND211/tree/main/AMPL/arbol)
+- Problema de flujo máximo [[flujo]](https://github.com/faosorios/CIND211/tree/main/AMPL/flujo)
