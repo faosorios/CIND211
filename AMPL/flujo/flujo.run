@@ -1,0 +1,6 @@
+reset;
+model flujo.mod;
+data trafico.dat;
+option solver cplex;
+solve;
+display Traff;
