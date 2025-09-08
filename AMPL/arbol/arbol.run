@@ -1,0 +1,6 @@
+reset;  # limpia cache
+model arbol.mod; 
+data sesion7.dat;
+option solver cplex;
+solve;
+display x;
