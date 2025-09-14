@@ -21,6 +21,11 @@ Las **diapositivas** para el 2do semestre de 2025 se encuentran disponibles a co
 - Sesion 11: Preliminar, Técnicas de conteo [[slides]](https://github.com/faosorios/CIND211/blob/main/diapositivas/slides-11.pdf)
 - Sesion 12: Preliminar, Fundamentos de probabilidad [[slides]](https://github.com/faosorios/CIND211/blob/main/diapositivas/slides-12.pdf)
 
+## Material de lectura adicional
+- Elementos de teoría de conjuntos [[PDF]](https://github.com/faosorios/CIND211/blob/main/material/teoria_de_conjuntos.pdf)
+- Técnicas de conteo [[PDF]](https://github.com/faosorios/CIND211/blob/main/material/tecnicas_de_conteo.pdf)
+- Fundamentos de probabilidad [[PDF]](https://github.com/faosorios/CIND211/blob/main/material/fundamentos_de_probabilidad.pdf)
+
 ## Ejemplos en AMPL
 
 - Problema de Programación Lineal [[panaderia]](https://github.com/faosorios/CIND211/tree/main/AMPL/panaderia/)
