@@ -17,6 +17,9 @@ Las **diapositivas** para el 2do semestre de 2025 se encuentran disponibles a co
 - Sesión 7: Árbol de expansión de costo mínimo [[slides]](https://github.com/faosorios/CIND211/blob/main/diapositivas/slides-07.pdf)
 - Sesión 8: Problema de flujo máximo [[slides]](https://github.com/faosorios/CIND211/blob/main/diapositivas/slides-08.pdf)
 - Sesión 9: Taller 3, árbol de expansión y flujo máximo [[slides]](https://github.com/faosorios/CIND211/blob/main/diapositivas/slides-09.pdf)
+- Sesion 10: Preliminar, Elementos de teoría de conjuntos [[slides]](https://github.com/faosorios/CIND211/blob/main/diapositivas/slides-10.pdf)
+- Sesion 11: Preliminar, Técnicas de conteo [[slides]](https://github.com/faosorios/CIND211/blob/main/diapositivas/slides-11.pdf)
+- Sesion 12: Preliminar, Fundamentos de probabilidad [[slides]](https://github.com/faosorios/CIND211/blob/main/diapositivas/slides-12.pdf)
 
 ## Ejemplos en AMPL
 
