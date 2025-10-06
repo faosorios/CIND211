@@ -23,6 +23,7 @@ Las **diapositivas** para el 2do semestre de 2025 se encuentran disponibles a co
 - Sesion 13: Preliminar, Variable aleatoria [[slides]](https://github.com/faosorios/CIND211/blob/main/diapositivas/slides-13.pdf)
 - Sesion 14: Preliminar, Modelos de probabilidad discretos y continuos de uso común [[slides]](https://github.com/faosorios/CIND211/blob/main/diapositivas/slides-14.pdf)
 - Sesion 15: Preliminar, Distribuciones bivariadas [[slides]](https://github.com/faosorios/CIND211/blob/main/diapositivas/slides-15.pdf)
+- Sesion 16: Introducción a Procesos Estocásticos [[slides]](https://github.com/faosorios/CIND211/blob/main/diapositivas/slides-16.pdf)
 
 ## Material de lectura adicional
 - Elementos de teoría de conjuntos [[PDF]](https://github.com/faosorios/CIND211/blob/main/material/teoria_de_conjuntos.pdf)
