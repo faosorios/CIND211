@@ -32,6 +32,9 @@ Las **diapositivas** para el 2do semestre de 2025 se encuentran disponibles a co
 - Técnicas de conteo [[PDF]](https://github.com/faosorios/CIND211/blob/main/material/tecnicas_de_conteo.pdf)
 - Fundamentos de probabilidad [[PDF]](https://github.com/faosorios/CIND211/blob/main/material/fundamentos_de_probabilidad.pdf)
 
+## Evaluaciones
+- **2025**: [[Solemne 1]](https://github.com/faosorios/CIND211/blob/main/evaluaciones/CIND211_S1.pdf), [[Pauta 1]](https://github.com/faosorios/CIND211/blob/main/evaluaciones/CIND211_P1.pdf)
+
 ## Ejemplos en AMPL
 - Problema de Programación Lineal [[panaderia]](https://github.com/faosorios/CIND211/tree/main/AMPL/panaderia/)
 - Problema de Asignación [[oficinas]](https://github.com/faosorios/CIND211/tree/main/AMPL/oficinas)
