@@ -33,7 +33,6 @@ Las **diapositivas** para el 2do semestre de 2025 se encuentran disponibles a co
 - Fundamentos de probabilidad [[PDF]](https://github.com/faosorios/CIND211/blob/main/material/fundamentos_de_probabilidad.pdf)
 
 ## Ejemplos en AMPL
-
 - Problema de Programación Lineal [[panaderia]](https://github.com/faosorios/CIND211/tree/main/AMPL/panaderia/)
 - Problema de Asignación [[oficinas]](https://github.com/faosorios/CIND211/tree/main/AMPL/oficinas)
 - Problema de Ruta más corta [[rutas]](https://github.com/faosorios/CIND211/tree/main/AMPL/rutas)
@@ -41,3 +40,7 @@ Las **diapositivas** para el 2do semestre de 2025 se encuentran disponibles a co
 - Algoritmo de Floyd-Warshall [[floyd]](https://github.com/faosorios/CIND211/tree/main/AMPL/floyd)
 - Arbol de expansión [[arbol]](https://github.com/faosorios/CIND211/tree/main/AMPL/arbol)
 - Problema de flujo máximo [[flujo]](https://github.com/faosorios/CIND211/tree/main/AMPL/flujo)
+
+## Scripts en R
+- Cálculo de la potencia de una matriz cuadrada [[matrix.power.R]](https://github.com/faosorios/CIND211/blob/main/R/matrix.power.R)
+- Determina la distribución estacionaria de una cadena de Markov [[stationary.R]](https://github.com/faosorios/CIND211/blob/main/R/stationary.R)
