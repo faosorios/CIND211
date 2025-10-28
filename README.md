@@ -7,7 +7,7 @@ Este repositorio contiene el material del curso **CIND-211: Redes y Sistemas Est
 
 Las **diapositivas** para el 2do semestre de 2025 se encuentran disponibles a continuación.
 
-- Sesión 0: Introducción [[slides]](diapositivas/slides-00.pdf)
+- Sesión 0: Introducción [[slides]](diapositivas/slides-00.pdf){:target="_blank"}
 - Sesión 1: Definición de redes [[slides]](diapositivas/slides-01.pdf)
 - Sesión 2: Problema de la ruta más corta [[slides]](diapositivas/slides-02.pdf)
 - Sesión 3: Taller 1, introducción a AMPL [[slides]](diapositivas/slides-03.pdf)
