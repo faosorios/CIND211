@@ -26,6 +26,8 @@ Las **diapositivas** para el 2do semestre de 2025 se encuentran disponibles a co
 - Sesion 16: Introducción a Procesos Estocásticos [[slides]](diapositivas/slides-16.pdf)
 - Sesion 17: Cadenas de Markov [[slides]](diapositivas/slides-17.pdf)
 - Sesion 18: Taller 4, cálculos con cadenas de Markov en R [[slides]](diapositivas/slides-18.pdf)
+- Sesion 19: Proceso de Poisson [[slides]](diapositivas/slides-19.pdf)
+- Sesion 20: Taller 5, cálculos con procesos de Poisson en R [[slides]](diapositivas/slides-20.pdf)
 
 ## Material de lectura adicional
 - Elementos de teoría de conjuntos [[PDF]](material/teoria_de_conjuntos.pdf)
@@ -47,3 +49,6 @@ Las **diapositivas** para el 2do semestre de 2025 se encuentran disponibles a co
 ## Scripts en R
 - Cálculo de la potencia de una matriz cuadrada [[matrix.power.R]](https://github.com/faosorios/CIND211/blob/main/R/matrix.power.R)
 - Determina la distribución estacionaria de una cadena de Markov [[stationary.R]](https://github.com/faosorios/CIND211/blob/main/R/stationary.R)
+- Tiempos de espera [[bus.R]](R/bus.R)
+- Simula un proceso Poisson en el intervalo [0,t], [[pois.sim.R]](R/pois.sim.R)
+
