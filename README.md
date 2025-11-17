@@ -28,6 +28,7 @@ Las **diapositivas** para el 2do semestre de 2025 se encuentran disponibles a co
 - Sesion 18: Taller 4, cálculos con cadenas de Markov en R [[slides]](diapositivas/slides-18.pdf)
 - Sesion 19: Proceso de Poisson [[slides]](diapositivas/slides-19.pdf)
 - Sesion 20: Taller 5, cálculos con procesos de Poisson en R [[slides]](diapositivas/slides-20.pdf)
+- Sesion 21: Generalizaciones del proceso Poisson [[slides]](diapositivas/slides-21.pdf)
 
 ## Material de lectura adicional
 - Elementos de teoría de conjuntos [[PDF]](material/teoria_de_conjuntos.pdf)
